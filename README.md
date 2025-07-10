@@ -7,7 +7,7 @@ This Education Technology Plan will overview the context and plan for the middle
 ### Course
 
 #### STEM 
-This course introduces students to engineering principles through robotics.  Students will learn how engineers solve problems collaboratively.  Students will design, build, program and test robotic designs using the VEX IQ robotics system. Students will work in teams to develop increasingly-difficult robotics challenges through the year. STEM is available to 6th-8th students as an elective.
+This course introduces students to engineering principles through robotics.  Students will learn how engineers solve problems collaboratively.  Students will design, build, program and test robotic designs using the VEX IQ robotics system. Students will work in teams to develop increasingly-difficult robotics challenges through the year. STEM is available to 6th-8th students as an elective. Students develop basic skills needed before attempting design challenges.
 
 ### Situation
 
