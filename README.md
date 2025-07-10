@@ -11,7 +11,7 @@ This course introduces students to engineering principles through robotics.  Stu
 
 ### Situation
 
-Students will be entering the class with a range of interest levels.  Some students selected the elective, while others were placed based on lack of input of schedule conflicts. Likewise, Students will have a wide range of ability levels as some will have prior experience with robotics and programming, while this will be the first experience in mechatronics and CS for others.
+Students will be entering the class with a range of interest levels.  Some students selected the elective, while others were placed based on lack of input or schedule conflicts. Likewise, Students will have a wide range of ability levels as some will have prior experience with robotics and programming, while this will be the first experience in mechatronics and CS for others.
 
 #### Assets
 * **30** [VEX IQ Education Kits](https://www.vexrobotics.com/228-8899.html#)
@@ -39,19 +39,21 @@ installed as well as any online services.
 * [VEXcode IQ](https://codeiq.vex.com/) as the web-based IDE for students to program their robots using their chromebooks.  There is also a free extension available for VSCode.  
 
 ### Hardware Specifications
-Teacher Laptop Spec go here:
-Dell Precision
+Teacher ViewSonic All-in-one Spec go here:
+
 
 Student chromebook spec go here:
 
 
-The VEX IQ Robot brain connects to a computer via an USB-C to USB-A 2.0 cable.  Proprietary smart cables connect up to 12 motors and/or sensors.  Each brain has a 3 inch LCD screen.  There are 8 save slots to hold unique programs, as well as a microSD port for storing more data. Student chromebooks
+The VEX IQ Robot brain connects to a computer via an USB-C to USB-A 2.0 cable.  Proprietary smart cables connect up to 12 motors and/or sensors.  Each brain has a 3 inch LCD screen.  There are 8 save slots to hold unique programs, as well as a microSD port for storing more data. 
 
 ### Application
 
 Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+
+I will demonstrate foundational programming principles such as **sequence**, **variables**, **condition decisions**, **iteration**, and **functions** with _grahical_ and _auditory_ channels. The students will work together using _pair programming_, taking turns driving or navigating, alternating at equitable intervals.  The students will apply their understanding of these concepts to program their robot to navigate a maze, retrieve and deliver objects in a field, sort objects by color, plot a CNC drawing, as well as other tasks. Students are encouraged to create their own design using unique approaches to each challenge.  Daily engineering notebooks are checked for rationale, documentation, and reflective entries. All teams will be graded by looking at their engineering journals, regardless of how successful they were at completing challenges. The goal is to develop resilience and collaborative skills. 
 
 ### Impacts
 
