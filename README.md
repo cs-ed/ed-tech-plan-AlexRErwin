@@ -1,4 +1,4 @@
-# Educational Technology Plan
+# Educational Technology Plan for CJHS STEM
 
 This Education Technology Plan will overview the context and plan for the middle school robotics class I will be teaching.
 
@@ -11,18 +11,19 @@ This course introduces students to engineering principles through robotics.  Stu
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
+Students will be entering the class with a range of interest levels.  Some students selected the elective, while others were placed based on lack of input of schedule conflicts. Likewise, Students will have a wide range of ability levels as some will have prior experience with robotics and programming, while this will be the first experience in mechatronics and CS for others.
+
 #### Assets
-* 30 [VEX IQ Education Kits](https://www.vexrobotics.com/228-8899.html#)
-* One-to-one chromebook ratio
-* 5 additional classroom issued chromebooks for temporary use
+* **30** [VEX IQ Education Kits](https://www.vexrobotics.com/228-8899.html#)
+* **One-to-one** chromebook ratio
+* District-wide access to Google Apps For Education (GAFE)
+* **5** additional classroom issued chromebooks for temporary use
 
 #### Constraints
-* 50 min class periods
+* 50 min class periods, longer sessions would be ideal
 * [CJHS SARC report](https://sarconline.org/public/summary/04614246057137/2023-2024)
 * Title 1 school
+* Large class sizes, up to 36 students
 
 ## Plan
 
@@ -31,15 +32,20 @@ context of your class, considering demographic and technical resources?
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
+* Instructor will use AERIES software to report grades and take attendance
 * Google Classroom as a learning management system
 * Google Slides for students to document their daily progress through a digital engineering journal
 * ChromeOS for students to access Chrome web browser and save files to their chromebooks
-* [VEXcode IQ](https://codeiq.vex.com/) as the IDE for students to program their robots
+* [VEXcode IQ](https://codeiq.vex.com/) as the web-based IDE for students to program their robots using their chromebooks.  There is also a free extension available for VSCode.  
 
 ### Hardware Specifications
+Teacher Laptop Spec go here:
+Dell Precision
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+Student chromebook spec go here:
+
+
+The VEX IQ Robot brain connects to a computer via an USB-C to USB-A 2.0 cable.  Proprietary smart cables connect up to 12 motors and/or sensors.  Each brain has a 3 inch LCD screen.  There are 8 save slots to hold unique programs, as well as a microSD port for storing more data. Student chromebooks
 
 ### Application
 
