@@ -39,7 +39,7 @@ installed as well as any online services.
 * [VEXcode IQ](https://codeiq.vex.com/) as the web-based IDE for students to program their robots using their chromebooks.  There is also a free extension available for VSCode.  
 
 ### Hardware Specifications
-Teacher ViewSonic All-in-one Spec go here:
+Teacher Laptop Spec go here:
 
 
 Student chromebook spec go here:
@@ -53,7 +53,7 @@ Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
 
-I will demonstrate foundational programming principles such as **sequence**, **variables**, **condition decisions**, **iteration**, and **functions** with _grahical_ and _auditory_ channels. The students will work together using _pair programming_, taking turns driving or navigating, alternating at equitable intervals.  The students will apply their understanding of these concepts to program their robot to navigate a maze, retrieve and deliver objects in a field, sort objects by color, plot a CNC drawing, as well as other tasks. Students are encouraged to create their own design using unique approaches to each challenge.  Daily engineering notebooks are checked for rationale, documentation, and reflective entries. All teams will be graded by looking at their engineering journals, regardless of how successful they were at completing challenges. The goal is to develop resilience and collaborative skills. 
+I will demonstrate foundational programming principles such as **sequence**, **variables**, **condition decisions**, **iteration**, and **functions** with _graphical_ and _auditory_ channels. The students will work together using _pair programming_, taking turns driving or navigating, alternating at equitable intervals.  The students will apply their understanding of these concepts to program their robot to navigate a maze, retrieve and deliver objects in a field, sort objects by color, plot a CNC drawing, as well as other tasks. Students are encouraged to create their own design using unique approaches to each challenge.  Daily engineering notebooks are checked for rationale, documentation, and reflective entries. All teams will be graded by looking at their engineering journals, regardless of how successful they were at completing challenges. The goal is to develop resilience and collaborative skills. 
 
 ### Impacts
 
@@ -61,3 +61,5 @@ How will the technology help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.
+
+To be successful in this technology class, students will need to have the proper tools to practice key techniques.  Each student will have access to a computer with a web browser, and all family's have the opportunity to a district subidized ISP. Each day will begin with typing technique practice or programming practice problems to increase these foundational skills.  Students will create their ow projects using pairir programming.  One student will drive the keyboard while the other serves as navigator.  The goal of this approach is level the skill gap between students of varying prior knowledge levels.
