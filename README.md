@@ -42,8 +42,17 @@ installed as well as any online services.
 Teacher Laptop Spec go here:
 
 
-Student chromebook spec go here:
-
+Student chromebook specs:
+*Intel(R) Celeron(R) N4000 CPU @ 1.10GHz (2 threads, 2.60GHz)
+*4gb ram
+*Wi-fi network capability - no ethernet
+*2 usb a 2.0 ports
+*2 usb c ports
+*1 micro sd port
+*1 3.5 mm audio jack
+*built in keyboard
+*built in microphone
+*built in webcam
 
 The VEX IQ Robot brain connects to a computer via an USB-C to USB-A 2.0 cable.  Proprietary smart cables connect up to 12 motors and/or sensors.  Each brain has a 3 inch LCD screen.  There are 8 save slots to hold unique programs, as well as a microSD port for storing more data. 
 
