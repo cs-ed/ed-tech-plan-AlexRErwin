@@ -39,8 +39,19 @@ installed as well as any online services.
 * [VEXcode IQ](https://codeiq.vex.com/) as the web-based IDE for students to program their robots using their chromebooks.  There is also a free extension available for VSCode.  
 
 ### Hardware Specifications
-Teacher Laptop Spec go here:
-
+Teacher laptop specse:
+* Intel Core Processor i7-9750H	6 Core, 12M Cache, 2.60GHz up to 4.5GHz Turbo, 45W
+* 2x DDR4 SoDIMM 16gb ram (2x8GB)
+* 512GB M.2 NVMe PCIe SSD Class 40
+* Wi-fi network capability - ethernet through usb C port adapter
+* 2 USB 3.1 Gen 1 ports with PowerShare
+* 1 USB 3.1 Gen 2 Type-C
+* 1 HDMI 2.0b port
+* * 1 SD-card slot
+* 1 3.5 mm audio jack
+* built in keyboard
+* built in microphone
+* built in webcam
 
 Student chromebook specs:
 * Intel(R) Celeron(R) N4000 CPU @ 1.10GHz (2 threads, 2.60GHz)
@@ -48,7 +59,7 @@ Student chromebook specs:
 * Wi-fi network capability - no ethernet
 * 2 usb a 2.0 ports
 * 2 usb c ports
-* 1 micro sd port
+* 1 micro sd card slot
 * 1 3.5 mm audio jack
 * built in keyboard
 * built in microphone
